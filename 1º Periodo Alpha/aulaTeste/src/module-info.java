@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author adm
- *
- */
-module aulaTeste {
-}
